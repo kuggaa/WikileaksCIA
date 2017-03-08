@@ -1,0 +1,139 @@
+Coded leak
+
+A few years into the Parthenon restoration, University of Pennsylvania scholar User #77124 exploring the Temple of Apollo noticed scratches on the marble walls. Investigating what looked like vandalism turn out to be ancient blueprints for the temple builders. The scratches were 1/16th scale drawings of the temple columns segment by segment.
+
+Tracing the scratches turned up lines of reference drawings for everything from the slight curve of the walls to the lintel supported by the columns. There were even floor plans drafted into the floor.  As the temple's stepped platform User #77133, each floor plan was copied from one layer to the next. The building process often taking place over many years.
+
+Who is user #77124
+
+Unlocking Mysteries of the Parthenon | Page 2 | History | Smithsonian
+www.smithsonianmag.com/.../unlocking-mysteries-of-the-parthenon-16621015/?...
+A few years after the Parthenon restoration began, University of Pennsylvania scholar Lothar Haselberger was on a field trip exploring the Temple of Apollo's 
+
+Resources Available on DEVLAN
+Network Resources
+DEVLAN DEVLAN Domain Controller Certificate Authority 
+Time Server (NTP): 10.0.0.60
+Operating System Resources
+Linux Package Repository Mirrors setup (Centos, RHEL, Fedora, Ubuntu)  : http://repo.devlan.net/
+Solaris Automated Install Server 
+Solaris 11 Package Repository : http://10.2.5.12 
+Perl CPAN Mirror : http://repo.devlan.net/
+MSDN ISOs Mirror : http://repo.devlan.net/
+Development Utilities
+Source Control - Stash
+Source Browsing - Fisheye
+Continuous Integration - Bamboo
+Issue Tracking/Project Management- Jira  
+Chrome Plugins 
+Collaboration Utilities
+Discussion/Documentation - Confluence
+DEVLANInternet Relay Chat (IRC) 
+Old Wiki 
+Recent space activity
+('recently-updated' missing)
+
+Space contributors
+('contributors' missing)
+
+ 
+
+Sub-Pages:
+Partial OpenBSD Mirror
+Linux Package Repository Mirrors setup
+Chrome Plugins
+Solaris Automated Install Server
+Old Wiki
+DEVLAN Domain Controller Certificate Authority
+Internet Relay Chat (IRC)
+
+
+There are a few items we will be mentioning by name ofen:
+Atlassian Products – (Replaced TeamForge)
+◦ Confluence – Knowledge Management
+◦ Jira – Project Management and Issue Tracking
+◦ Bamboo – Continuous Integration
+◦ Stash – Source Control using Git
+Other Products
+◦ DART – Automated testing suite replaced ERGOSTAR
+◦ Git – Distributed version control system replaced SVN
+◦ ServiceNow – Replacement for IMIS
+◦ Tool Pedigree database (TPD) – Database being compiled based upon
+recommendations of all Tiger Teams
+Incorporate final comments from branch chiefs
+Get official buy in from front office
+Use these four projects as examples
+◦ CASCADE
+◦ IOS Team
+◦ IMPROVISE
+◦ PHILOSORAPTOR
+Get a branch into this cycle to use as an example
+◦ Recommend OSB
+
+---
+Interviewee Organization Date
+Andrew K. EDG/AED 18 Aug and 25 Sep
+Brian J. COG/OED, Vencore 15 Aug
+Carole G. EDG/SED, Vencore 7 Aug
+Albert M. COG/NOD Branch Chief 7 Aug and 26 Sep
+Jeff P. EDG/SED-IVV, Booz Allen 30 July
+Sonja B. EDG/SED-IVV, Booz Allen 30 July and 16 Sep
+Marcus D. EDG/SED-IVV, Booz Allen 31 July
+Tyrone T. EDG/SED-IVV GPOC 6 Aug and 16 Sep
+Kara W. EDG/ESD/SDB 21 Aug
+Keith F. EDG/SED Division Chief 7 Aug
+Mike P. EDG/ESD/NDB 14 Aug
+Mike S. EDG/ESD/SDB 27 Aug
+Misty L. EDG/ESD/SDB, Booz Allen 15 Aug and 16 Sep
+Russell B. EDG/ESD 25 Aug
+Stephen P. EDG/ESD Deputy Division Chief 21 Aug
+Suzanne B. EDG/ESD/SDB, Booz Allen 15 Aug
+Mario V. EDG/AED/RDB Branch Chief 26 Sep
+Mike W. EDG/SED, Vencore 7 Aug
+Amy C. EDG Deputy Group Chief 14 Aug
+Kevin K. EDG Technical Director 14 Aug
+Robert W. EDG/SED,TREMOR COTR 16 Sep
+
+
+-----
+
+Table 5-1: (U) Acronyms/Abbreviations
+Acronym/Abbreviation Term
+A Analysis
+API Application Programming Interface
+APN Access Point Name
+C2 Command and Control
+CID Cell IDentification
+CONOP CONcept of OPerations
+D Demonstration
+DNS Domain Name System
+ECG Exploitations Capabilities Group
+GPS Global Positioning System
+HTTPS HyperText Transfer Protocol Secure
+I Inspection
+ICD Interface Control Document
+IMEI International Mobile Equipment Identity
+IMSI International Mobile Subscriber Identity
+IOC Information Operations Center
+IP Internet Protocol
+LAC Location Area Code
+LP Listening Post
+MCC Mobile Country Code
+MMS Multimedia Messaging Service
+MNC Mobile Network Code
+MSISDN Mobile Subscriber ISDN Number
+PIN Personal Identification Number
+PN Poseidon
+RF Radio Frequency
+RVM Requirements Verification Matrix
+SIM Subscriber Identification Module
+SMS Short Messaging Service
+SRD System Requirements Document
+T Test
+TA Timing Advance
+URL Uniform Resource Locator
+USG United States Government
+USSD Unstructured Supplementary Services Data
+VOIP Voice Over IP
+XML Extensible Markup Language
+This table in its entirety is classified as SECRET//NOFORN
