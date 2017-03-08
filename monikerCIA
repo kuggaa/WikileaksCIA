@@ -1,0 +1,25 @@
+Execution Vector Member List:
+
+Removable Media Link File Execution (EVRemovableMediaLink_EZC - EZCheese)
+
+Removable Media Link File Exploitation with Autorun.inf (EVRemovableMediaLink_LACH - Lachesis)
+
+Link File Execution Utilizing Desktop.ini (EVLink_BOOM - Boomslang)
+
+Link File Execution Utilizing .library-ms (EVLink_RVRJ - RiverJack)
+
+Somevbody-listened=https://osb-doxygen.devlan.net/executionvectors
+
+Persistence Library Member List: 
+
+Scheduled Task Persistence (PSEDSchedTask_TP - TrickPlay)
+
+COM + Junction Folder User Persistence (PSDComJunction_HCLS - HighClass)
+
+Run and RunOnce Registry Key Persistence (PSEDRunKey_QW - Quick Work)
+
+Group Policy Startup Script (PSEDStartupScript_LDGR - Ledger)
+
+WMI Event Persistence (PSEDWMIEvent_SU - SystemUptime)
+
+Service Persistence (PSEDService_CF - Constant Flow)
