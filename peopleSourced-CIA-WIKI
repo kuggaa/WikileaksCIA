@@ -1,0 +1,42 @@
+Owner: User #3375374
+
+
+User #3375374's Wiki Page
+{{:main:people:mikel:aybabtu.jpg|Susie Rules!!!}}
+
+mikel:aybabtu
+
+Contact Info
+
+Secure: 93-05293
+
+Room: DD2 9W53-040
+
+file:///Users/cfh/Desktop/Git%20Submodules%20%20Core%20Concept,%20Workflows%20And%20Tips%20%20%20Atlassian%20Blogs.html
+# YOU WOULD THINK THEY WOULD MAKE URL FILE PATH NON PRINTABLE?
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install smbfs
+
+sudo apt-get install mercurial
+hg clone http://10.9.0.20:8000/tybase
+hg clone http://10.9.0.20:8000/tyworkflow
+cd tybase/
+make
+cd ../tyworkflow/
+make
+scp /home/User #77120/.ssh/id_rsa.pub root@dart-ts-01.devlan.net:~
+note: on dart-ts-01.devlan.net perform$ cat ~/id_rsa.pub >> /root/.ssh/authorized_keys
+note: on dart-ts-01.devlan.net perform$ mkdir /proj/testing/commits/User #77120
+cd ../tybase
+bin/undermine leafbags/tyworkflow/overlib/preflight/service_ping_test.py 10.9.5.125
+cd leafbags/
+mkdir blackcrow
+mkdir blackcrow/blackcrow
+cd ../../..  (back to in tybase)
+cp ../blackcrow/unittests/*  leafbags/blackcrow/blackcrow
+ln -s leafbags/blackcrow/blackcrow/plans/ .
+ln -s leafbags/blackcrow/blackcrow/tests/ .
+bin/undermine tests/simple.py 10.9.5.125
+bin/remote_commit -u User #77120 run plans/BlackcrowFxf.py count=1
